@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/X2PbSTh/Twitter-Header-RAMA.jpg)]
 <h1 align="center">Hi 👋, I'm Ramkrishna Sawant</h1>
 <h3 align="center">A Penetration Tester from INDIA</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishnasawant&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishnasawant" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ram_sawant_" target="blank"><img src="https://img.shields.io/twitter/follow/ram_sawant_?logo=twitter&style=for-the-badge" alt="ram_sawant_" /></a> </p>
