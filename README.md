@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android pentest**
 
-- 📝 I regularly write articles on [https://ramkrishna-sawant.medium.com](https://ramkrishna-sawant.medium.com/)
+- 📝 I write articles on [https://ramkrishna-sawant.medium.com](https://ramkrishna-sawant.medium.com/)
 
 - 📫 How to reach me **ramkrishnasawant1999@gmail.com**
 
