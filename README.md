@@ -40,8 +40,8 @@
 
 
  <h3 align="left">Github statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkrishnasawant&show_icons=true&locale=en&layout=compact" alt="ramkrishnasawant" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkrishnasawant&show_icons=true&locale=en&layout=compact" alt="ramkrishnasawant" /></p> <br >&nbsp
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramkrishnasawant&show_icons=true&locale=en" alt="ramkrishnasawant" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramkrishnasawant&show_icons=true&locale=en" alt="ramkrishnasawant" /></p>  <br > &nbsp
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkrishnasawant&" alt="ramkrishnasawant" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkrishnasawant&" alt="ramkrishnasawant" /></p>  <br> &nbsp
