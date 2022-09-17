@@ -32,10 +32,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ram_sawant_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ram_sawant_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ramkrishnasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkrishnasawant" height="30" width="40" /></a><br> <br>
-<a href="https://instagram.com/ig_ramkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_ramkrishna" height="30" width="40" /></a>
-<a href="https://medium.com/@ramkrishna-sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ramkrishna-sawant" height="30" width="40" /></a>
+<a href="https://twitter.com/ram_sawant_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ram_sawant_" height="30" width="40" /></a> &nbsp   &nbsp
+<a href="https://linkedin.com/in/ramkrishnasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkrishnasawant" height="30" width="40" /></a> &nbsp   &nbsp
+<a href="https://instagram.com/ig_ramkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_ramkrishna" height="30" width="40" /></a> &nbsp  &nbsp
+<a href="https://medium.com/@ramkrishna-sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ramkrishna-sawant" height="30" width="40" /></a> &nbsp  &nbsp
 </p>
 
 
