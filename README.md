@@ -29,18 +29,16 @@
  - NYKAA
         
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/GHOST_OPERATOR_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ram_sawant_" height="30" width="40" /></a> &nbsp   &nbsp
-<a href="https://linkedin.com/in/ramkrishnasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkrishnasawant" height="30" width="40" /></a> &nbsp   &nbsp
-<a href="https://instagram.com/ig_ramkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_ramkrishna" height="30" width="40" /></a> &nbsp  &nbsp
-<a href="https://medium.com/@ramkrishna-sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ramkrishna-sawant" height="30" width="40" /></a> &nbsp  &nbsp
-</p>
+
+## 🌐 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_ramkrishna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramkrishnasawant) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ramkrishna-sawant) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GHOST_OPERATOR_) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ramkrishnasawant&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ramkrishnasawant&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkrishnasawant&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ramkrishnasawant&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
- <h3 align="left">Github statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkrishnasawant&show_icons=true&locale=en&layout=compact" alt="ramkrishnasawant" /></p> <br >&nbsp
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramkrishnasawant&show_icons=true&locale=en" alt="ramkrishnasawant" /></p>  <br > &nbsp
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkrishnasawant&" alt="ramkrishnasawant" /></p>  <br> &nbsp
