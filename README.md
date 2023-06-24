@@ -21,7 +21,7 @@
 
 ### Blogs posts
  -  [HOW I HACKED COLLEGE WEBSITE](https://ramkrishna-sawant.medium.com/how-i-hacked-my-friends-college-website-within-10-minutes-e862cb5ad7a3)
- 
+ -  [Analysis Of SSTI Vulnerability Reports](https://securityboat.in/analysis-of-ssti-vulnerability-reports/)
  ### Acknowledgements and hof's
  - APPLE
  - ASUS
