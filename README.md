@@ -28,7 +28,8 @@
  - LG
  - LENOVO
  - NYKAA
-        
+ - BOSCH
+ - HINDUSTAN UNILEVER     
 
 
 ## 🌐 Connect with me:
