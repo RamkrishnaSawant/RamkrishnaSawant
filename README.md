@@ -29,7 +29,9 @@
  - LENOVO
  - NYKAA
  - BOSCH
- - HINDUSTAN UNILEVER     
+ - HINDUSTAN UNILEVER
+ - ADORE ME
+ - BOSCH  
 
 
 ## 🌐 Connect with me:
