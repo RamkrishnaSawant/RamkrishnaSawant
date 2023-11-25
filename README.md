@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ghost_operator_" target="blank"><img src="https://img.shields.io/twitter/follow/ghost_operator_?logo=twitter&style=for-the-badge" alt="ghost_operator_" /></a> </p>
 
-- 🌱 I’m currently learning **Android pentest**
+- 🌱 I’m currently working as a **Security Engineer**
 
 - 📝 I write articles on [MEDIUM](https://ramkrishna-sawant.medium.com/)
 
@@ -14,7 +14,7 @@
 
 ### Skills
 -   OWASP TOP 10
--   WEB APPLICATIION SECURITY
+-   WEB APPLICATION SECURITY
 -   NETWORK SECURITY 
 -   LINUX
 -   API SECURITY
